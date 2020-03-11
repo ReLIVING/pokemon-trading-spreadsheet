@@ -2,13 +2,13 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o";
+var spreadsheetId = "1ppisgV_xacdHZWHbE4XkONkh9gC3W7cvavi3e7v0JBI";
 
 // ***********************************************************************************
 // Your FC and IGN
 // ***********************************************************************************
-var friendCode = "4597-0550-9417";
-var inGameName = "Richie";
+var friendCode = "6801-4008-7711";
+var inGameName = "Re";
 
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
